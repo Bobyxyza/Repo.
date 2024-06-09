@@ -1,2 +1,2 @@
 # Repo.
-hello everyone it my first .
+hello everyone it my first time on github .
